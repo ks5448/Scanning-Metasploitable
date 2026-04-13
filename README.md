@@ -43,17 +43,25 @@ Developed remediation strategies
 🛠️ Remediation Summary
 
 Remove compromised or backdoored services
+
 Patch all outdated software and libraries
+
 Enforce strong authentication mechanisms
+
 Disable insecure protocols (Telnet, SSLv2/3)
+
 Restrict service access using firewall rules
+
 Implement secure configuration and hardening practices
 
 📈 Key Insights
 
 Legacy systems contain multiple critical vulnerabilities exploitable with minimal effort
+
 Credentialed scans provide deeper visibility into system weaknesses
+
 Misconfigurations and outdated protocols significantly increase attack surface
+
 Proper patching and service hardening are essential for system security
 
 🧠 Conclusion
