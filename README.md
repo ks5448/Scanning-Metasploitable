@@ -22,9 +22,13 @@ This project demonstrates a vulnerability assessment conducted on a deliberately
 🔎 Methodology
 
 Conducted service enumeration using Nmap
+
 Performed credentialed vulnerability scan using Nessus
+
 Analyzed vulnerabilities based on CVSS severity
+
 Mapped findings to known CVEs
+
 Developed remediation strategies
 
 🚨 Key Findings
